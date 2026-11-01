@@ -1,0 +1,9 @@
+/* Reset browser defaults */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
